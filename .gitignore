@@ -1,0 +1,3 @@
+# Ignore Affinity Designer files (svg will be included)
+*.afdesign
+.DS_Store
